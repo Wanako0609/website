@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-fr'
+baseURL = 'https://wanako0609.github.io/'
+languageCode = 'fr'
 title = 'Wanako Blog'
 theme = 'hugo-coder'
 
@@ -22,7 +22,7 @@ style = "github-dark"
   info = "Développeur d'outil et CTF player"
   description = "Wanako Kanan website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "/images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
