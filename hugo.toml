@@ -1,0 +1,85 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-fr'
+title = 'Wanako Blog'
+theme = 'hugo-coder'
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "Wanako"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Wanako Kanan"
+  info = "Développeur d'outil et CTF player"
+  description = "Wanako Kanan website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Wanako0609/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://x.com/Wanakombd/"
+[[params.social]]
+  name = "Discord"
+  icon = "fa-brands fa-discord fa-2x"
+  weight = 2
+  url = "https://discord.gg/QeyFCZvJQ2"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 4
+  url = "https://www.linkedin.com/in/wyatt-mbida-3a4b00285"
+[[params.social]]
+  name = "Root Me"
+  icon = "fa-solid fa-user-secret fa-2x"
+  weight = 5
+  url = "https://www.root-me.org/Wanako"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "Projet"
+  weight = 2
+  url = "projet/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
