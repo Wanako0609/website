@@ -1,1 +1,2 @@
 hugo new content content/projet/linealang.md
+hugo serveur -D
