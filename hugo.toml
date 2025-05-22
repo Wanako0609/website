@@ -69,15 +69,15 @@ style = "github-dark"
   url = "https://www.root-me.org/Wanako"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 2
-  url  = "posts/"
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 2
+#  url  = "posts/"
 [[menu.main]]
   name = "Projet"
   weight = 1
   url = "projet/"
 [[menu.main]]
-  name = "About"
-  weight = 3
+  name = "Contact"
+  weight = 2
   url = "about/"

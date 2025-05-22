@@ -6,8 +6,15 @@
     <description>Recent content on Wanako Blog</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 May 2025 11:49:29 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 11:00:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me contact</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 22 May 2025 11:00:40 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Salut ! Moi c’est &lt;strong&gt;Wanako&lt;/strong&gt;, passionné de cybersécurité, de reverse engineering et de tout ce qui touche à l’informatique. Si tu veux échanger, poser une question, collaborer sur un projet ou juste discuter tech, n’hésite pas à m’envoyer un message !&lt;/p&gt;&#xA;&lt;p&gt;Le plus simple ?&#xA;&lt;strong&gt;Discord&lt;/strong&gt; : &lt;code&gt;Wanako&lt;/code&gt;&#xA;(Je suis presque toujours en ligne.)&lt;/p&gt;&#xA;&lt;p&gt;Tu peux aussi me laisser un message via un autre réseau.&lt;/p&gt;&#xA;&lt;p&gt;Longue vie à toi !&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Frasm</title>
       <link>http://localhost:1313/projet/frasm/</link>
